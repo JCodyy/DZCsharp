@@ -18,3 +18,4 @@ if (not)
 {
     Console.WriteLine("Нет чётных чисел!");
 }
+
